@@ -62,7 +62,6 @@ All Zig packages are strictly designed for **Zig v0.16.0+**, featuring zero heap
 * **[`zlog`](https://github.com/entropyparadox-lab/zlog)**: Zero-allocation structured logger with ANSI/NDJSON formatters and OpenTelemetry tracing.
 * **[`zfetch`](https://github.com/entropyparadox-lab/zfetch)**: Ergonomic, type-safe HTTP client wrapping Zig's standard `std.http.Client`.
 * **[`zbench`](https://github.com/entropyparadox-lab/zbench)**: Statistical microbenchmarking and memory profiling toolkit.
-* **[`zig-inspect`](https://github.com/entropyparadox-lab/zig-inspect)**: Agentic AST symbol inspector and diagnostic CLI for AI coding agents.
 
 ---
 

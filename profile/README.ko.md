@@ -62,7 +62,6 @@
 * **[`zlog`](https://github.com/entropyparadox-lab/zlog)**: ANSI/NDJSON 포맷터 및 OpenTelemetry 추적을 지원하는 무할당 정형 로거.
 * **[`zfetch`](https://github.com/entropyparadox-lab/zfetch)**: `std.http.Client` 기반 인체공학적 타입 세이프 HTTP 클라이언트.
 * **[`zbench`](https://github.com/entropyparadox-lab/zbench)**: 통계적 마이크로 벤치마킹 및 메모리 프로파일링 도구.
-* **[`zig-inspect`](https://github.com/entropyparadox-lab/zig-inspect)**: AI 에이전트 및 개발자를 위한 AST 심볼 인스펙터.
 
 ---
 

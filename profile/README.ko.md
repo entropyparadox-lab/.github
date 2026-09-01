@@ -67,7 +67,7 @@
 
 ### 3. 📖 기술 문서 및 가이드
 
-* **[`zig-guide-kr`](https://github.com/entropyparadox-lab/zig-guide-kr)**: Zig v0.16.0 공식 레퍼런스 완역 및 Rails Guides 스타일의 실전 시스템 프로그래밍 가이드북.
+* **[`zig-guide-kr`](https://github.com/entropyparadox-lab/zig-guide-kr)** ([🌐 공식 배포 사이트](https://entropyparadox-lab.github.io/zig-guide-kr/)): Zig v0.16.0 공식 레퍼런스 완역 및 Rails Guides 스타일의 실전 시스템 프로그래밍 가이드북.
 
 ---
 

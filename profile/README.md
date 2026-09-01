@@ -67,7 +67,7 @@ All Zig packages are strictly designed for **Zig v0.16.0+**, featuring zero heap
 
 ### 3. 📖 Documentation & Guides
 
-* **[`zig-guide-kr`](https://github.com/entropyparadox-lab/zig-guide-kr)**: Complete Korean translation of the official Zig v0.16.0 reference and Rails-style practical systems guide.
+* **[`zig-guide-kr`](https://github.com/entropyparadox-lab/zig-guide-kr)** ([🌐 Live Site](https://entropyparadox-lab.github.io/zig-guide-kr/)): Complete Korean translation of the official Zig v0.16.0 reference and Rails-style practical systems guide.
 
 ---
 
